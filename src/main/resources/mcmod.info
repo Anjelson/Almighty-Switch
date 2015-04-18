@@ -1,0 +1,21 @@
+[
+{
+  "modid": "AlmightySwitch",
+  "name": "Almighty Switch",
+  "description": "Creates a full block light up lever-like object.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Anjelson"
+  ],
+  "credits": "pahimar: Much Thanks for the let's mod videos!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
