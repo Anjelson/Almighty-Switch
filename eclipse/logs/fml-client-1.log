@@ -920,8 +920,8 @@ Caused by: java.lang.IllegalArgumentException: INVOKESPECIAL/STATIC on interface
 [18:24:36] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory Almighty-Switch
 [18:24:36] [Client thread/TRACE] [FML/]: Recursing into package com
 [18:24:36] [Client thread/TRACE] [FML/]: Recursing into package com.anjelson
-[18:24:36] [Client thread/TRACE] [FML/]: Recursing into package com.anjelson.almightyswitch
-[18:24:36] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.anjelson.almightyswitch.almightyswitch) - loading
+[18:24:36] [Client thread/TRACE] [FML/]: Recursing into package com.anjelson.AlmightySwitch
+[18:24:36] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.anjelson.AlmightySwitch.almightyswitch) - loading
 [18:24:36] [Client thread/TRACE] [AlmightySwitch/]: Parsed dependency info : [] [] []
 [18:24:36] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.10-10.13.2.1291.jar for potential mods
 [18:24:36] [Client thread/DEBUG] [FML/]: The mod container forgeSrc-1.7.10-10.13.2.1291.jar appears to be missing an mcmod.info file
